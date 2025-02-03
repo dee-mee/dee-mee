@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in vario
 
 ## About Me
 
-- 🔭 I’m currently working on [Your Current Project](https://github.com/your-repo-link)
+- 🔭 I’m currently working on school-management system(https://github.com/dee-mee/school-management)
 - 🌱 I’m currently learning Django-framework
 - 👯 I’m looking to collaborate on Full-stack apps.
 - 🤔 I’m looking for help with development tools
@@ -19,15 +19,15 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in vario
   - [Python]
   - [Bash Scripting]
   - [C++]
-  - ...
+  - [PHP]
 
 - **Frameworks and Libraries:**
   - [Django-rest]
   - [Javascript/React]
-  - ...
+  - [PHP]
 
 - **Tools and Technologies:**
-  - [Tool/Technology 1]
+  - [php/core]
   - [Tool/Technology 2]
   - [Tool/Technology 3]
   - ...
