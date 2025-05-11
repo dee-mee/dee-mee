@@ -26,13 +26,6 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in vario
   - [Javascript/React]
   - [PHP]
 
-- **Tools and Technologies:**
-  - [php/core]
-  - [Tool/Technology 2]
-  - [Tool/Technology 3]
-  - ...
-
-## GitHub Stats
 
 ![Dee Mee's GitHub stats](https://github-readme-stats.vercel.app/api?username=dee-mee&show_icons=true&theme=radical)
 
@@ -40,11 +33,7 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in vario
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dee-mee&layout=compact&theme=radical)
 
-## Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- [Twitter](https://twitter.com/your-twitter)
-- [Personal Website](https://your-personal-website.com)
 
 Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate or have any questions.
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=dee-mee"/>
