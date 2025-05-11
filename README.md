@@ -34,8 +34,3 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in vario
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dee-mee&layout=compact&theme=radical)
 
 
-
-Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate or have any questions.
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=dee-mee"/>
-
-<img alt="top langs" align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dee-mee&layout=compact"/>
