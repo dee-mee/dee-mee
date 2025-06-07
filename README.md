@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in vario
 ## About Me
 
 - 🔭 I’m currently working on Paper-Research system(https://github.com/Devlinx-s/ResearchNest.git)
-- 🌱 I’m currently learning Django-framework
+- 🌱 I’m currently learning Flask-framework
 - 👯 I’m looking to collaborate on Full-stack apps.
 - 🤔 I’m looking for help with development tools
 - 💬 Ask me about anything
@@ -25,6 +25,7 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in vario
   - [Django-rest]
   - [Javascript/React]
   - [PHP]
+  - [Flask]
 
 
 ![Dee Mee's GitHub stats](https://github-readme-stats.vercel.app/api?username=dee-mee&show_icons=true&theme=radical) 
