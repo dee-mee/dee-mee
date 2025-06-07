@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in vario
 
 ## About Me
 
-- 🔭 I’m currently working on school-management system(https://github.com/dee-mee/school-management)
+- 🔭 I’m currently working on Paper-Research system(https://github.com/Devlinx-s/ResearchNest.git)
 - 🌱 I’m currently learning Django-framework
 - 👯 I’m looking to collaborate on Full-stack apps.
 - 🤔 I’m looking for help with development tools
