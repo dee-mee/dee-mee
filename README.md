@@ -27,12 +27,9 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in vario
   - [PHP]
   - [Flask]
 
+![Dee Mee's GitHub stats](https://github-readme-stats.vercel.app/api?username=dee-mee&show_icons=true&theme=radical&cache_seconds=86400)
 
-![Dee Mee's GitHub stats](https://github-readme-stats.vercel.app/api?username=dee-mee&show_icons=true&theme=radical) 
-
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dee-mee&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dee-mee&layout=compact&theme=radical&cache_seconds=86400)
 
 
 
