@@ -39,9 +39,10 @@ Welcome to my GitHub profile! I'm a passionate developer interested in software 
 
 ## 📊 GitHub Stats
 
-![Dee Mee's GitHub stats](https://github-readme-stats.vercel.app/api?username=dee-mee\&show_icons=true\&theme=radical\&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dee-mee\&layout=compact\&theme=radical\&cache_seconds=86400)
+![Dee Mee's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dee-mee&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dee-mee&layout=compact&theme=radical)
 
 
 ## ⚡ Fun Fact
