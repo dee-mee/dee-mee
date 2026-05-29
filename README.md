@@ -4,10 +4,9 @@ Welcome to my GitHub profile! I'm a passionate developer interested in software 
 
 ## 🚀 About Me
 
-* 🔭 I’m currently working on **ResearchNest**
-  https://github.com/Devlinx-s/ResearchNest.git
+* 🔭 I’m currently working on **myself**
 
-* 🌱 I’m currently learning **Flask Framework**
+* 🌱 I’m currently learning **AI and Automation **
 
 * 👯 I’m looking to collaborate on **Full-Stack Applications**
 
